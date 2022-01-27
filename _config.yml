@@ -86,7 +86,7 @@ menu:
   about: /about/ || fa fa-user
   moments: /moments/ || fa fa-comment-dots
   links: /links/ || fa fa-link
-  travellings: https://travellings.link || fas fa-subway
+  starsky: https://starsky.life || fas fa-star-and-crescent
   archives: /archives/ || fa fa-archive
   #tags: /tags/ || fa fa-tags
   #categories: /categories/ || fa fa-th
