@@ -65,7 +65,7 @@ if (hexo-config('note.style') != 'disabled') {
     for $type in $note-types {
       &.{$type} {
         if ($note-style == 'flat') {
-          background: $note-bg[$type];
+          background: mix($note-bg[$type], $body-bg-color-dark, 15%);
           if (hexo-config('darkmode')) {
             @media (prefers-color-scheme: dark) {
               background: mix($note-bg[$type], $body-bg-color-dark, 10%);

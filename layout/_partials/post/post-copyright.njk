@@ -12,6 +12,10 @@
       {{- author }}
     {%- endif %}
   </li>
+  <li class="post-copyright-author">
+    <strong>{{ __('post.copyright.title') + __('symbol.colon') }} </strong>
+    {{- page.title }}
+  </li>
   <li class="post-copyright-link">
     {%- if page.post_link %}
       <strong>{{ __('post.copyright.post_link') + __('symbol.colon') }}</strong>
