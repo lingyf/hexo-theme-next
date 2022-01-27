@@ -86,7 +86,7 @@ menu:
   about: /about/ || fa fa-user
   moments: /moments/ || fa fa-comment-dots
   links: /links/ || fa fa-link
-  starsky: https://starsky.life || fas fa-star-and-crescent
+  stary-night: https://stary-night.com || fas fa-star
   archives: /archives/ || fa fa-archive
   #tags: /tags/ || fa fa-tags
   #categories: /categories/ || fa fa-th
